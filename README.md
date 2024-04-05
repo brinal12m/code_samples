@@ -1,1 +1,1 @@
-#This repository contains sample programs for quick software testing.
+This repository contains sample programs for quick software testing.
